@@ -14,3 +14,7 @@ Imágenes, archivos necesarios, el archivo .tex y el PDF resultante para el trab
 ## app
 
 Carpeta utilizada para el lanzamiento de la aplicación interactiva con los modelos ya entrenados, tanto de regresión lineal multivariable como regresión logística multiclase.
+
+El link es el siguiente: https://huggingface.co/spaces/Trexpollito1/AppNumerico
+
+**Nota**: El hugging face está dando problemas con el css, y pone todo blanco, si abre los notebooks en la app, apretar `Ctrl+a` para seleccionar y verificar la existencia de los notebooks :).
